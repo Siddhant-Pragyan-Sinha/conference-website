@@ -11,7 +11,7 @@ export default function SpeakersForm(){
 						image:'/img/logos/apidays.png',websiteUrl:"https://www.apidays.global/"
 					},
 					{
-						"image":"/img/logos/APICONF-LOGO-White.svg",
+						image:'/img/logos/asyncapi-logo--white.png',
 						"websiteUrl":""
 					}
 					]} 
